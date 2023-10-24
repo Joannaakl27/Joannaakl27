@@ -1,9 +1,8 @@
 ## Hi there 👋, I'm Joanna
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Full+Stack+Web+Developer;Data+Scientist;and+Lifelong+Learner!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 👋 Hi, I'm Joanna<br>
-📊 I work as a data scientist<br>
+📊 Data Analyst | Turning Numbers into Insights 📈 <br>
 ❤️‍🔥 I'm also passionate about developing web applications<br>
 🌱 I’m currently learning React.js and GraphQL<br>
 📫 How to reach me: akljoanna95@gmail.com<br>
