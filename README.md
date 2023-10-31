@@ -6,7 +6,7 @@
 ❤️‍🔥 I'm also passionate about developing web applications<br>
 🌱 I’m currently learning React.js and GraphQL<br>
 📫 How to reach me: akljoanna95@gmail.com<br>
-💻 Check my portfolio: [Portfolio](https://joannaakl27.github.io/joanna-portfolio/)<br><br>
+💻 Check my portfolio: [Portfolio](https://www.datascienceportfol.io/Joannaakl)<br><br>
 
 ## :wrench: Toolkit
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=PowerBI)&nbsp;
