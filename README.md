@@ -4,7 +4,6 @@
 👋 Hi, I'm Joanna<br>
 📊 Data Analyst | Turning Numbers into Insights 📈 <br>
 ❤️‍🔥 I'm also passionate about developing web applications<br>
-🌱 I’m currently learning React.js and GraphQL<br>
 📫 How to reach me: akljoanna95@gmail.com<br>
 💻 Check my portfolio: [Portfolio](https://www.datascienceportfol.io/Joannaakl)<br><br>
 
